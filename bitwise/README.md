@@ -1,0 +1,6 @@
+& (bitwise AND)
+| (bitwise OR)
+^ (bitwise XOR)
+~ (bitwise NOT)
+<< (bitwise left shift)
+>> (bitwise right shift)
